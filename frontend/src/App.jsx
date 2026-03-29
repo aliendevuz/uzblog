@@ -6,6 +6,8 @@ function App() {
     <>
       <h1>UzBlog!</h1>
       <p>Testing...</p>
+
+      <a href="/about">About us!</a>
     </>
   )
 }
