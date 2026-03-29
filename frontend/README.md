@@ -10,3 +10,8 @@ npm install bun
 bun install
 bun dev
 ```
+
+## Links
+
+https://uzblogs.netlify.app/
+
