@@ -13,5 +13,8 @@ bun dev
 
 ## Links
 
+Production:
 https://uzblogs.netlify.app/
+
+Staging:
 https://staging--uzblogs.netlify.app/
